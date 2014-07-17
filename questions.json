@@ -5,14 +5,18 @@
 	"option1":"42",
 	"option2":"Why???",
 	"option3":"What??",
-	"option4":"Who?"
+	"option4":"Who?",
+        "answer":"Correct",
+	"noanswer":"Wrong"
 	},
 	{
 	"question":"The name of the, undoubtedly, worst Star Wars movie is",
 	"option1":"Star Wars: Episode I - The Phantom Menace",
 	"option2":"Star Wars: Episode I - The Jar Jar Binks Chronicles",
 	"option3":"Star Wars: Episode I - The Fanboy's Menace",
-	"option4":"Spaceballs - Return of the Creeps"
+	"option4":"Spaceballs - Return of the Creeps",
+	"answer":"Correct",
+	"noanswer":"Wrong"
 	}
 
 ]

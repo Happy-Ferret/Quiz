@@ -42,10 +42,10 @@ rnd=Math.ceil(rnd);
  var q3;
  var q4;
 
-if(rnd==1){q1=questionBank[questionNumber][1];q2=questionBank[questionNumber][2];q3=questionBank[questionNumber][3];q4=questionBank[questionNumber][4];}
-if(rnd==2){q2=questionBank[questionNumber][1];q3=questionBank[questionNumber][2];q1=questionBank[questionNumber][3];q4=questionBank[questionNumber][4];}
-if(rnd==3){q3=questionBank[questionNumber][1];q1=questionBank[questionNumber][2];q2=questionBank[questionNumber][3];q4=questionBank[questionNumber][4];}
-if(rnd==4){q3=questionBank[questionNumber][1];q1=questionBank[questionNumber][2];q2=questionBank[questionNumber][3];q4=questionBank[questionNumber][4];}
+if(rnd==1){q1=questionBank[questionNumber][1];q4=questionBank[questionNumber][2];q3=questionBank[questionNumber][3];q2=questionBank[questionNumber][4];}
+if(rnd==2){q2=questionBank[questionNumber][1];q1=questionBank[questionNumber][2];q4=questionBank[questionNumber][3];q3=questionBank[questionNumber][4];}
+if(rnd==3){q3=questionBank[questionNumber][1];q2=questionBank[questionNumber][2];q1=questionBank[questionNumber][3];q4=questionBank[questionNumber][4];}
+if(rnd==4){q4=questionBank[questionNumber][1];q3=questionBank[questionNumber][2];q2=questionBank[questionNumber][3];q1=questionBank[questionNumber][4];}
 
 
 $(stage).append('<div class="questionText">'+questionBank[questionNumber][0]+'</div><div id="1" class="option">'+q1+'</div><div id="2" class="option">'+q2+'</div><div id="3" class="option">'+q3+'</div><div id="4" class="option">'+q4+'</div>');

@@ -23,6 +23,8 @@ var score=0;
 			questionBank[i][2]=data.quizlist[i].option2;
 			questionBank[i][3]=data.quizlist[i].option3;
 			questionBank[i][4]=data.quizlist[i].option4;
+			questionBank[i][5]=data.quizlist[i].answer;
+			questionBank[i][6]=data.quizlist[i].noanswer;
 		}
 		 numberOfQuestions=questionBank.length; 
 		
@@ -54,12 +56,12 @@ $(stage).append('<div class="questionText">'+questionBank[questionNumber][0]+'</
   if(questionLock==false){questionLock=true;	
   // If answer = 1 count as correct
   if(this.id==rnd){
-   $(stage).append('<div class="feedback1">CORRECT</div>');
+   $(stage).append('<div class="feedback1">'+questionBank[questionNumber][5]+'</div>');
    score++;
    }
   // If answer =/= 1 count as wrong	
   if(this.id!=rnd){
-   $(stage).append('<div class="feedback2">WRONG</div>');
+   $(stage).append('<div class="feedback2">'+questionBank[questionNumber][6]+'</div>');
   }
   setTimeout(function(){changeQuestion()},1000);
  }})

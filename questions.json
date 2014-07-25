@@ -1,4 +1,4 @@
-{"quizlist":[
+﻿{"quizlist":[
 
 	{
 	"question":"Wie lange dauerte das Konzil?",
@@ -8,6 +8,150 @@
 	"option4":"4 Monate",
         "answer":"Das Konstanzer Konzil ging vom 5. November 1414 bis zum 22. April 1418. Damit sind es etwas weniger als 4 Jahre, aber im Volksmund spricht man von 4 Jahren.",
 	"noanswer":"Diese Antwort ist leider falsch. Richtig wären 4 Jahre gewesen."
+	},
+	{
+	"question":"Wie hieß der Papst, der im Konzil gewählt wurde?",
+	"option1":"Gregor XII.",
+	"option2":"Benedikt XIII.",
+	"option3":"Martin V.",
+	"option4":"Johannes XXIII.",
+        "answer":"Correct",
+	"noanswer":"Wrong"
+	},
+	{
+	"question":"Wer durfte damals den Kaiser Krönen?",
+	"option1":"Der Papst",
+	"option2":"Die Queen",
+	"option3":"Der vorherige Kaiser",
+	"option4":"Der Pfarrer",
+        "answer":"Richtig, Da der Glaube im Mittelalter in der Gesellschaft sehr verankert war, galt eine stabile Kirche als Voraussetzung für eine stabile staatliche Ordnung. Die Krönung durfte damals nur der Papst vornehmen. Die Legitimität dieses Aktes setzte voraus, dass es nur einen Papst gab. ",
+	"noanswer":"Leider Falsch, die korrekte Antwort wäre der Papst gewesen."
+	},  	
+	{
+	"question":"Wie hieß das Gericht das von italienischen Bäckern in ihren mobilen Öfen zubereitet wurde und heute berühmt ist?",
+	"option1":"Dünnele",
+	"option2":"Pizza",
+	"option3":"Zander Knusperle",
+	"option4":"Ochsenfetzen",
+        "answer":"Diese Spezialität hatte es den Konstanzern so angetan, dass die ansässigen Bäcker die belegten und überbackenen Fladenbrote in ihr Programm aufnahmen - damals bekannt als 'Dinne' oder 'Dünne', heute noch als 'Dünnele' beliebt.",
+	"noanswer":"Leider falsch, die korrekte Antwort wäre 'Dünnele' gewesen."
+	},  	
+	{
+	"question":"Wie heißt die Spezialität welche zur damaligen Zeit oft gemacht wurde?",
+	"option1":"Dünnele",
+	"option2":"Ofenkartoffeln",
+	"option3":"Spanferkel",
+	"option4":"Fladenbrot",
+	"answer":" Die italieneischen Bäcker brachten die Dünnele im Mittelalter nach Konstanz. Beim Brotbacken wurden Dünnele aus den 'Abfällen' gemacht. Mit unterschiedlichen Belägen wie Zwiebeln und Speck,Äpfeln,Kartoffeln und Käse werden sie heute noch gebacken. Meistens wird heute noch Traditionell in einem Lehmofen gebacken.",
+	"noanswer":"Leider falsch,die korrekte Antwort wäre Dünnele."
+	},
+	{
+	"question":"Wer hat das Konstanzer Konzil einberufen?",
+	"option1":"Papst Johannes XXIII",
+	"option2":"K�nig Sigismund",
+	"option3":"Hieronymus von Prag",
+	"option4":"Ulrich von Richental",
+	"answer":"Der neu gewählte deutsche König Sigismund verabredete, 1413 in Lodi mit Johannes XXIII, die Einberufung des Konzils, das die Einheit der Kirche wiederherstellen sollte.",
+	"noanswer":"Leider falsch. Die Richtige Antwort w�re 'Papst Johannes XXIII' gewesen"
+	},
+	{
+	"question":"Wieso wurde Konstanz als Austragungsort des Konzils ausgewählt?",
+	"option1":"Gute Handelswege, Infrastruktur und Sitz des Konstanzer Bistums",
+	"option2":"Hübschlerinnen, gutes Essen und bedeutendes Zentrum der Bücherherstellung",
+	"option3":"Bürger großteils evangelisch, mediterranes Klima und unterirdisches Wasserreservoir",
+	"option4":"Jakobsweg, Schifffahrtswege und freie Reichsstadt",
+	"answer":"Bei der Frage nach dem Austragungsort des Konzils standen mehrere Orte zur Diskussion. Neben Straßburg, Basel oder auch Kempten (Allgäu) stand zuletzt Konstanz zur Wahl. Konstanz hatte wegen seiner Nähe zu Wasserstraßen eine gute Infrastruktur, konnte somit ausgezeichnet mit Lebensmitteln und Sachen des täglichen Bedarfs versorgt werden. Zudem war Konstanz nicht nur Reichsstadt wie die anderen Städte, sondern auch Sitz des Konstanzer Bistums.",
+	"noanswer":"Leider falsch. Die Richtige Antwort wäre 'Gute Handelswege, Infrastruktur und Sitz des Konstanzer Bistums' gewesen"
+	},
+	{
+	"question":"Als was war Oswald von Wolkenstein bekannt?",
+	"option1":"Minnesänger und Gefolge von König Sigismund",
+	"option2":"Marktschreier in Konstanz",
+	"option3":"Priester aus Freiburg",
+	"option4":"Henker von Herzog Friedrich IV",
+	"answer":"Oswald von Wolkenstein war Sänger, Dichter und Komponist sowie Politiker von mehr als regionaler Ebene. Während der Zeit des Konzils gehörte er zum Gefolge von König Sigismund mit einem Gehalt von 300 Gulden im Jahr und wird auch bildlich in der Konzilchronik des Ulrich von Richental aufgeführt.",
+	"noanswer":"Leider falsch, die korrekte Antwort wäre gewesen: Minnesänger und Gefolge von König Sigismund."
+	},
+	{
+	"question":"Was war ein beliebtes Pilgerziel am Bodensee im 15. Jahrhundert?",
+	"option1":"Insel Reichenau",
+	"option2":"Hohentwiel",
+	"option3":"Wallfahrtskirche Birnau",
+	"option4":"Schloss Arenenberg",
+	"answer":"Die Insel Reichenau war im späten Mittelalter aufgrund des Benediktinerklosters ein beliebtes Ziel für Pilger aus ganz Europa. Einer der Gründe war die bekannte Goldschmiede welche auf der Insel Reichenau beheimatet war und unter anderem die Reichskrone von Otto dem Großen schmiedete.  Nach benediktinischem Brauch befinden sich auch heutzutage noch einige Reliquien von unschätzbarem Wert in der Schatzkammer des ehemaligen Klosters.",
+	"noanswer":"Leider falsch, die korrekte Antwort wäre gewesen: Insel Reichenau"
+	},
+	{
+	"question":"Was trägt die Imperia-Statue am Konstanzer Hafen auf den Händen?",
+	"option1":"Den Papst und Weihrauch",
+	"option2":"Ein Zepter und eine Krone",
+	"option3":"Den Papst und den König",
+	"option4":"Den Kaiser und ein Hofnarr",
+        "answer":"Der Künstler benannte nicht genau, ob es sich um die derzeitigen Oberhaupte, oder um das kirchliche und weltliche Oberhaupt allgemein handelt. Hintergrund ist das Konstanzer Konzil im 15. Jahrhundert zu dem tausende Prostituierte in der Stadt waren, um adelige und geistliche Kundschaft zu erfreuen. Deshalb sieht die Statue auch so freizügig aus.",
+	"noanswer":"Leider falsch! Richtig wäre der Papst und der König."
+	},
+	{
+	"question":"Wie hieß der römisch-deutsche Kaiser, der das Konzil eingeleitet hat?",
+	"option1":"Sigfried",
+	"option2":"Sigisbart",
+	"option3":"Sigismund",
+	"option4":"Sigmund",
+	"answer":"Sigismund von Luxemburg stammte aus dem Hause der Luxemburger. Er war Kurfürst von Brandenburg von 1378 bis 1388 und von 1411 bis 1415, König von Ungarn und Kroatien seit 1387, römisch-deutscher Kaiser seit 1411, König von Böhmen seit 1419 und römisch-deutscher Kaiser von 1433 bis zu seinem Tode. In seine Regierungszeit fielen das Konzil von Konstanz (1414-1418), mit dem er eine Kirchenspaltung überwinden konnte, und die Hussitenkriege (1419-1436).",
+	"noanswer":"Leider falsch! Richtig wäre Sigismund."
+	},
+	{
+	"question":"In welchem Jahr des Konzils fand das Konklave statt, indem der neue Papst gewählt wurde?",
+	"option1":"1417",
+	"option2":"1415",
+	"option3":"1416",
+	"option4":"1414",
+        "answer":"1417 fand die Wahl des Papstes statt. Hier wurde auch festgelegt das nun mindestens alle zehn Jahre ein neues Konklave stattfinden soll.",
+	"noanswer":"Leider falsch, die richtige Antwort wäre '1417' gewesen."
+	},
+	{
+	"question":"Wo kann man die Richentalchroniken einsehen?",
+	"option1":"Konstanz",
+	"option2":"Rom",
+	"option3":"London",
+	"option4":"Paris",
+	"answer":"Die Richentalchroniken liegen in dem Rosgartenmuseum. Hier liegen sie in einem klimatisierten, licht- und luftgeschützten Tresor.",
+	"noanswer":"Leider falsch, die richtige Antwort wäre 'Konstanz' gewesen."
+	},
+	{
+	"question":"Ab dem Jahre 1414 war Konstanz durch das Konzil der Nabel der Welt! Wie lange hielt diese Zeit an?",
+	"option1":"4 Jahre",
+	"option2":"6 Jahre",
+	"option3":"2 Jahre",
+	"option4":"8 Jahre",
+        "answer":"Die glorreiche Zeit des Konzils und der Stadt Konstanz ging von 1414 bis 1418. Mit der Papstwahl im Dezember 1417 lief die Epoche des Konzils in Konstanz aus.",
+	"noanswer":"Leider falsch! Die korrekte Antwort wäre 4 Jahre gewesen."
+	},
+	{
+	"question":"Deutschland hatte am Anfang des 15. Jahrhunderts ca 7,5 Millionen Einwohner! Wie viele Einwohner hatte Konstanz zu dieser Zeit?",
+	"option1":"6.000 Einwohner",
+	"option2":"19.000 Einwohner",
+	"option3":"2.000 Einwohner",
+	"option4":"36.000 Einwohner",
+	"answer":"Konstanz hatte in diesen Jahren ca. 6.000 Einwohner. Dies galt zu der damaligen Zeit als große Stadt. Rom hatte zum Vergleich in dieser Zeit rund 20.000 Einwohner.",
+	"noanswer":"Leider falsch!"
+	},	
+	{
+	"question":"Was war der süße Winkel im damaligen Konstanz?",
+	"option1":"Ein Rotlicht-Virtel",
+	"option2":"Ein Backwaren-Markt",
+	"option3":"Eine Metzgerei",
+	"option4":"Ein Dünnele-Verkauf",
+        "answer":"Ein Rotlicht-Viertel. Der Standort ist bis heute unbekannt. Laut Aussagen waren dort bis zu 700 offizielle Hübschlerinnen aufzufinden.",
+	"noanswer":"Leider Falsch, die korrekte Antwort wäre Ein Rotlicht-Viertel gewesen."
+	},
+	{
+	"question":"Wie viele Besucher hatte Konstanz damals?",
+	"option1":"50.000-70.000",
+	"option2":"5.000-10.000",
+	"option3":"100.000-120.000",
+	"option4":"150.000-170.000",
+        "answer":"Die geschätzten 50.000-70.000 Konzil Besucher verschafften der Stadt nicht nur einen beträchtlichen wirtschaftlichen und kulturellen Aufschwung, sondern brachten sie während der vier Jahre auch an die Grenze der Belastbarkeit",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wären 50.000-70.000 gewesen."
 	}
 ]
 }

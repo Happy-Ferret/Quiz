@@ -10,7 +10,7 @@ html, body
 {
 margin:auto;	
 width:800px;
-height:400px;
+height:800px;
 position:relative;
 overflow:hidden;
 }
@@ -19,7 +19,7 @@ overflow:hidden;
 {
 margin:auto;
 width:800px;
-height:400px;
+height:800px;
 right:0px;
 position:absolute;
 }
@@ -28,7 +28,7 @@ position:absolute;
 {
 margin:auto;	
 width:800px;
-height:400px;
+height:800px;
 right:-800px;
 position:absolute;
 } 
@@ -104,7 +104,7 @@ text-align:center;
 	#game2{margin:1%;	width:98%;}
 }
 
-@media screen and (max-width:460px) 
+@media screen and (max-width:800px) 
 {
 	.option{width:80%;margin:5%;}
 }

@@ -44,7 +44,7 @@ rnd=Math.ceil(rnd);
  var q3;
  var q4;
  var time = questionBank[questionNumber][5].length * 50;
- var time2 = questionBank[questionNumber][6].length * 50;
+ var time2 = questionBank[questionNumber][6].length + questionBank[questionNumber][5].length * 50;
 
 if(rnd==1){q1=questionBank[questionNumber][1];q4=questionBank[questionNumber][2];q3=questionBank[questionNumber][3];q2=questionBank[questionNumber][4];}
 if(rnd==2){q2=questionBank[questionNumber][1];q1=questionBank[questionNumber][2];q4=questionBank[questionNumber][3];q3=questionBank[questionNumber][4];}
@@ -64,7 +64,7 @@ $(stage).append('<div class="questionText">'+questionBank[questionNumber][0]+'</
    }
   // If answer =/= 1 count as wrong	
   if(this.id!=rnd){
-   $(stage).append('<div class="feedback2">'+questionBank[questionNumber][6]+'</div>');
+   $(stage).append('<div class="feedback2">'+questionBank[questionNumber][6]+ "<p></p>" + questionBank[questionNumber][5]+'</div>');
   setTimeout(function(){changeQuestion()}, time2 );
   }
  }})

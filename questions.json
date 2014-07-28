@@ -11,12 +11,12 @@
 	},
 	{
 	"question":"Wie hieß der Papst, der im Konzil gewählt wurde?",
-	"option1":"Gregor XII.",
+	"option1":"Martin V.",
 	"option2":"Benedikt XIII.",
-	"option3":"Martin V.",
+	"option3":"Gregor XII.",
 	"option4":"Johannes XXIII.",
-        "answer":"Correct",
-	"noanswer":"Wrong"
+        "answer":"Martin V, welcher den weltlichen Namen Oddo di Colonna trug, regierte vom 9. Oktober 1417 bis zu seinem Todestag am 20. Februar 1431 über den Heiligen Stuhl.",
+	"noanswer":"Leider falsch. Die korrekte Antwort wäre Martin V gewesen."
 	},
 	{
 	"question":"Wer durfte damals den Kaiser Krönen?",
@@ -28,7 +28,7 @@
 	"noanswer":"Leider Falsch, die korrekte Antwort wäre der Papst gewesen."
 	},  	
 	{
-	"question":"Wie hieß das Gericht das von italienischen Bäckern in ihren mobilen Öfen zubereitet wurde und heute berühmt ist?",
+	"question":"Wie hieß das Gericht, das von italienischen Bäckern in ihren mobilen Öfen zubereitet wurde und heute berühmt ist?",
 	"option1":"Dünnele",
 	"option2":"Pizza",
 	"option3":"Zander Knusperle",
@@ -42,17 +42,17 @@
 	"option2":"Ofenkartoffeln",
 	"option3":"Spanferkel",
 	"option4":"Fladenbrot",
-	"answer":" Die italieneischen Bäcker brachten die Dünnele im Mittelalter nach Konstanz. Beim Brotbacken wurden Dünnele aus den 'Abfällen' gemacht. Mit unterschiedlichen Belägen wie Zwiebeln und Speck,Äpfeln,Kartoffeln und Käse werden sie heute noch gebacken. Meistens wird heute noch Traditionell in einem Lehmofen gebacken.",
+	"answer":" Die italienischen Bäcker brachten die Dünnele im Mittelalter nach Konstanz. Beim Brotbacken wurden Dünnele aus den 'Abfällen' gemacht. Mit unterschiedlichen Belägen wie Zwiebeln und Speck,Äpfeln,Kartoffeln und Käse werden sie heute noch gebacken. Meistens wird heute noch Traditionell in einem Lehmofen gebacken.",
 	"noanswer":"Leider falsch,die korrekte Antwort wäre Dünnele."
 	},
 	{
 	"question":"Wer hat das Konstanzer Konzil einberufen?",
 	"option1":"Papst Johannes XXIII",
-	"option2":"K�nig Sigismund",
+	"option2":"König Sigismund",
 	"option3":"Hieronymus von Prag",
 	"option4":"Ulrich von Richental",
 	"answer":"Der neu gewählte deutsche König Sigismund verabredete, 1413 in Lodi mit Johannes XXIII, die Einberufung des Konzils, das die Einheit der Kirche wiederherstellen sollte.",
-	"noanswer":"Leider falsch. Die Richtige Antwort w�re 'Papst Johannes XXIII' gewesen"
+	"noanswer":"Leider falsch. Die Richtige Antwort wäre 'Papst Johannes XXIII' gewesen"
 	},
 	{
 	"question":"Wieso wurde Konstanz als Austragungsort des Konzils ausgewählt?",
@@ -152,6 +152,141 @@
 	"option4":"150.000-170.000",
         "answer":"Die geschätzten 50.000-70.000 Konzil Besucher verschafften der Stadt nicht nur einen beträchtlichen wirtschaftlichen und kulturellen Aufschwung, sondern brachten sie während der vier Jahre auch an die Grenze der Belastbarkeit",
 	"noanswer":"Diese Antwort ist leider falsch, richtig wären 50.000-70.000 gewesen."
+	},
+	{
+	"question":"Welcher Feiertag ist heute nur noch auf der Insel Reichenau anzutreffen",
+	"option1":"Heilig-Blut-Fest",
+	"option2":"Götterdämmerung",
+	"option3":"Tag der Heiligen Jungfrau",
+	"option4":"Christi Himmelfahrt",
+        "answer":"Das Heilig-Blut-Fest in der Tradition früherer Benediktinermönche gibt es so nur noch auf der Insel Reichenau. Während der, traditionell von 1500 Reitern geführten, festlichen Prozession durch die Straßen der Insel Reichenau wird die Heilig Blutreliquie, eine Reliquie, welche der Legende nach, das Blut Jesu Christi enthalten soll, präsentiert.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Heilig-Blut-Fest' gewesen."
+	},
+	{
+	"question":"Was gilt als wichtiges Mitbringsel von einer Pilgerreise",
+	"option1":"Pilgerabzeichen",
+	"option2":"Wein",
+	"option3":"Weihwasser",
+	"option4":"Ein Nagel aus dem Kreuz Christi",
+        "answer":"Das Pilgerabzeichen galt als beliebtes Mitbringsel und primäres Instrument die Teilnahme an einer Pilgerreise nachzuweisen",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Pilgerabzeichen' gewesen."
+	},
+	{
+	"question":"Was ist das zentrale Stück der 'Heiligblutreliquie'?",
+	"option1":"Blutgetränktes Tuch von Golgota",
+	"option2":"Eine Ampulle mit dem Blut von Jesus Christus",
+	"option3":"Blutgetränktes Tuch von Waterloo",
+	"option4":"Ein Glas mit dem Wüstenstaub Jerusalems",
+        "answer":"Das Tuch von Golgota (der Name Golgota beschreibt einen Hügel wenige Meilen außerhalb Jerusalems) enthält, der Sage nach, das Blut Jesus Christus, welches während der Kreuzigung von ihm umgebenden Gläubigen aufgefangen wurde.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Blutgetränktes Tuch von Golgota' gewesen."
+	},
+	{
+	"question":"Der gestiftete Schrein welches Evangelisten und Kirchenbegründers befindet sich auch in Konstanz?",
+	"option1":"Markus",
+	"option2":"Paulus",
+	"option3":"Pompeius",
+	"option4":"Johannes",
+        "answer":"Nach altchristlicher Tradition gilt Markus (auch Johannes Markus) als erster Bischoff von Alexandria, Begründer des koptischen Christentums und Verfasser des Markusevangeliums. Sein Symbol ist der Löwe.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Markus' gewesen."
+	},
+	{
+	"question":"Welchen Titel fügten sich Könige und Kaiser in damaliger Zeit hinzu?",
+	"option1":"Dei Gratia",
+	"option2":"Deo Vindice",
+	"option3":"Sic Semper Tyrannis",
+	"option4":"Euer Gnaden",
+        "answer":"Dei Gratia (von Gottes Gnaden) war, zu damaliger Zeit, ein allgemein anerkanntes Legitimationsinstrument, weshalb sich europäische Fürsten diesen Titel nur allzu gerne verliehen.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Dei Gratia' gewesen."
+	},
+	{
+	"question":"Was war der Hauptgrund für das Konzil?",
+	"option1":"Die Beendigung des, seit 1378 anhaltenden, abendländischen Schismas.",
+	"option2":"Der Krieg gegen die Osmanen.",
+	"option3":"Die Eroberung Jerusalems",
+	"option4":"Wein, Spiel und Gesang.",
+        "answer":"Unzufrieden mit der Führung Papst Urbans VI riefen Kardinäle 1378 ihren Kollegen Robert von Genf zum Gegenpapst mit dem Ehrennamen Clemens VII aus. Dies führte zum Schisma und der Spaltung der Kirche, welche mit Hilfe des Konzils überwunden werden sollte.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Die Beendigung des, seit 1378 anhaltenden, abendländischen Schismas' gewesen."
+	},
+	{
+	"question":"Woher stammten die vier Päpste?",
+	"option1":"Rom, Bologna, Florenz und Avignon.",
+	"option2":"St. Petersburg, Florenz, Rom und Avignon.",
+	"option3":"Rom, Bologne, Florenz und Avignon.",
+	"option4":"Rom, Köln, Florenz, Jerusalem.",
+        "answer":"Zwei der Päpste stammten aus Italien (Rom und Bologna), während der Gegenpapst ",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Rom, Bologna, Florenz und Avignon' gewesen."
+	},
+	{
+	"question":"Welcher berühmte böhmische Reformer wurde in Konstanz, trotz des zugesagten Schutzes durch Sigismund, festgenommen und zum Tode verurteilt?",
+	"option1":"Jan Hus.",
+	"option2":"Martin Luther.",
+	"option3":"Johannes Calvin.",
+	"option4":"Huldrych Zwingli.",
+        "answer":"Trotz der Zusage Sigismunds, Jan Hus Schutz und freies Geleit zu gewähren, wurde der böhmische Reformator gefangen genommen, verurteilt und am 6. Juli 1415 dem Feuertod übereignet.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Jan Hus' gewesen."
+	},
+	{
+	"question":"Wie konkurrierten Handwerker damals spielerisch miteinander?",
+	"option1":"Schützenwettbewerb.",
+	"option2":"Brettspiele.",
+	"option3":"Reiterduelle.",
+	"option4":"Fechten.",
+        "answer":"Handwerker maßen früher ihr Können in Schützenwettbewerben. Waffenschmiede/Schreiner verwendeten hierbei oft auch ihre eigenen Bogen und Armbrüste.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Schützenwettbewerb' gewesen."
+	},
+	{
+	"question":"Welche Farbe war im Mittelalter besonders teuer",
+	"option1":"Rot",
+	"option2":"Gelb",
+	"option3":"Grün",
+	"option4":"Schwarz",
+        "answer":"Verschiedenste Rottöne wie etwa Magenta oder Purpur waren, auf Grund komplexer Herstellungsmechanismen, im Mittelalter besonders teuer. Kleidungen in diesen Farben waren daher besonders bei Landesfürsten, Patriziern und Mitgliedern des Heiligen Stuhls beliebt.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Rot' gewesen."
+	},
+	{
+	"question":"Welches war damals das teuerste Kleidungsstück für Frauen?",
+	"option1":"Kruseler Haube",
+	"option2":"Lederwams",
+	"option3":"Nerzmantel",
+	"option4":"Abendkleid",
+        "answer":"Auf Grund der aufwendigen Herstellung war die Kruseler Haube damals das teuerste Kleidungsstück für Frauen. Sie wurde hauptsächlich von Frauen in wohlhabenden Familien getragen und symbolisierte den Ehestand der Trägerin.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Kruseler Haube' gewesen."
+	},
+	{
+	"question":"Woraus wurde die Kruseler Haube gefertigt?",
+	"option1":"Feinste Leinen",
+	"option2":"Seide",
+	"option3":"Baumwolle",
+	"option4":"Jute",
+        "answer":"Ganz ihres Preises entsprechend wurde (und wird immer noch) die Kruseler Haube unter Verwendung feinster Leinen gefertigt. Meist in den Farben weiß oder naturgrau.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Feinste Leinen' gewesen."
+	},
+	{
+	"question":"Welche Mittelalterlichen Schätze zeugen noch heute vom Reichtum und Erfolg des Patriziertums?",
+	"option1":"Fresken",
+	"option2":"Goldene Becher",
+	"option3":"Steinerne Monumente",
+	"option4":"Glastürme",
+        "answer":"Fresken, feinste Wandmalereien, sind noch heute in vielen Teilen Süddeutschlands und der Schweiz vorzufinden und dienen als Zeugnis der damaligen Zeit.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Fresken' gewesen."
+	},
+	{
+	"question":"Welches Spiel war damals unter den armen Leuten besonders beliebt?",
+	"option1":"Kegeln",
+	"option2":"Blinde Kuh",
+	"option3":"Mensch Ärger dich Nicht",
+	"option4":"Schlag die Kuh",
+        "answer":"Kegeln war zur damaligen Zeit ein beliebter Zeitvertreib. Da das Mittelalter die Entstehungsgeschichte des modernen Kegelsports wiederspiegelt, fand das Spiel hier seinen frühesten Höhepunkt.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'Kegeln' gewesen."
+	},
+	{
+	"question":"Wie markierten die Delegationen Ihre Unterkünfte?",
+	"option1":"durch Wappen",
+	"option2":"durch rote Schleifen",
+	"option3":"durch Schwerter",
+	"option4":"durch Namensschilder",
+        "answer":"Die Delegationen verwendeten, zur Markierung und Sicherung ihrer Unterkünfte die Wappen des Hauses, welchem sie angehörten. Diese wurde, auf Schilden angebracht, vor die Türen der Unterkünfte gelegt.",
+	"noanswer":"Diese Antwort ist leider falsch, richtig wäre 'durch Wappen' gewesen."
 	}
 ]
 }

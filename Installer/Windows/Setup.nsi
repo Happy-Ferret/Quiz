@@ -1,5 +1,5 @@
-﻿!define MUI_ICON "icon.ico"
-!define INSTALLATIONNAME “Quiz”
+!define MUI_ICON "icon.ico"
+!define INSTALLATIONNAME "Happy"
 
 !include "MUI.nsh"
 
@@ -13,7 +13,7 @@
 !insertmacro MUI_LANGUAGE "English"
 
 
-Name “Quiz”
+Name "Happy"
 OutFile "./Setup.exe"
 InstallDir "$PROGRAMFILES\${INSTALLATIONNAME}"
 
@@ -42,7 +42,7 @@ Section ""
  WriteUninstaller "$INSTDIR\uninstall.exe"
  
  #Add registry keys.
- WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${INSTALLATIONNAME}" "DisplayName" "Quiz” 
+ WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${INSTALLATIONNAME}" "DisplayName" "Happy" 
  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${INSTALLATIONNAME}" "UninstallString" '"$INSTDIR\uninstall.exe"'
  WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${INSTALLATIONNAME}" "NoModify" 1
  WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${INSTALLATIONNAME}" "NoRepair" 1
@@ -55,8 +55,8 @@ Section "Symbolic links"
 
  CreateDirectory "$SMPROGRAMS\${INSTALLATIONNAME}"
  CreateShortCut "$SMPROGRAMS\${INSTALLATIONNAME}\Uninstall.lnk" "$INSTDIR\uninstall.exe" "" "$INSTDIR\uninstall.exe" 0
- CreateShortCut "$SMPROGRAMS\${INSTALLATIONNAME}\Quiz" "$INSTDIR\Quiz.exe" "" "$INSTDIR\Quiz.exe" 0
- CreateShortCut "$DESKTOP\Quiz.lnk" "$INSTDIR\Quiz.exe" "" "$INSTDIR\Quiz.exe" 0 
+ CreateShortCut "$SMPROGRAMS\${INSTALLATIONNAME}\Happy.lnk" "$INSTDIR\Happy.exe" "" "$INSTDIR\Happy.exe" 0
+ CreateShortCut "$DESKTOP\Happy.lnk" "$INSTDIR\Happy.exe" "" "$INSTDIR\Happy.exe" 0 
 SectionEnd
 
 Section "Uninstall"
@@ -68,5 +68,5 @@ Section "Uninstall"
  RMDir /r "$INSTDIR"
  RMDir /r "$SMPROGRAMS\${INSTALLATIONNAME}"
  RMDir "$SMPROGRAMS\${INSTALLATIONNAME}"
- Delete "$DESKTOP\Quiz.lnk"
+ Delete "$DESKTOP\Happy.lnk"
 SectionEnd
